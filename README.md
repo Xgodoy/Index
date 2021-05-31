@@ -1,5 +1,4 @@
-# LAB01
-Trabajo de Tech
+# Path of least resistance
 <h1 style="color:blue;">Path of least resistance</h1>
 <p> The path of least resistance is the physical or metaphorical pathway that provides the least resistance to forward motion by a given object or entity, among a set of alternative paths. The concept is often used to describe why an object or entity takes a given path.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Cartoon_mountain_pass_symbolizing_path_of_least_resistance.png"> 
